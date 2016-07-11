@@ -12,6 +12,10 @@ public class Money {
         return value;
     }
 
+    public void setValueForTest(int value) {
+        this.value = value;
+    }
+
     public Money multiply(int multiplier) {
         return new Money(value * multiplier);
     }
