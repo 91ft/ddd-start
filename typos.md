@@ -19,3 +19,9 @@ DDD 책이 나와서 너무 반갑습니다. :+1:
 
 # 4. 리포지터리와 모델 구현(JPA중심)
 - p.108 리스트4.3에 06라인. remove -> delete // @Override이니 OrderRepository와 동일하게 delete로 변경
+
+# 5. 리포지터리의 조회 기능(JPA중심)
+- p.155 아래 정렬 순서 지정 코드 `orderRepository.findAll(someSpec, "number.number` 두번째 파라미터 값부터 비정상 종결 `"number.number");` 또는 `"number.number desc");`가 되어야함.
+
+# 6. 응용 서비스와 표현 영역
+- p.173 맨 아래 예제 코드 `throw new BasPasswordException();` 에서 Bas -> Bad
