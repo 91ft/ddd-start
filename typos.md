@@ -25,3 +25,6 @@ DDD 책이 나와서 너무 반갑습니다. :+1:
 
 # 6. 응용 서비스와 표현 영역
 - p.173 맨 아래 예제 코드 `throw new BasPasswordException();` 에서 Bas -> Bad
+
+# 9. 도메인 모델과 BOUNDED CONTEXT
+- p.248 [그림 9.9] 아래 첫 줄, 파사드(`Facede`) -> `Facade`
