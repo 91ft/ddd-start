@@ -28,3 +28,6 @@ DDD 책이 나와서 너무 반갑습니다. :+1:
 
 # 9. 도메인 모델과 BOUNDED CONTEXT
 - p.248 [그림 9.9] 아래 첫 줄, 파사드(`Facede`) -> `Facade`
+
+# 10. 이벤트
+- p.261 예제 코드 `refundSvc` -> `refundService`
